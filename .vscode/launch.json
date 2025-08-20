@@ -1,0 +1,30 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DBConnect",
+            "request": "launch",
+            "mainClass": "DBConnect",
+            "projectName": "0317002_716ed0b4"
+        },
+        {
+            "type": "java",
+            "name": "ShopMenu2",
+            "request": "launch",
+            "mainClass": "ShopMenu2",
+            "projectName": "0317002_716ed0b4",
+            "vmArgs": "-Dfile.encoding=UTF-8",
+            "console": "internalConsole",
+        },
+    ]
+}
