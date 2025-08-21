@@ -30,7 +30,7 @@
             "request": "launch",
             "mainClass": "ShopMenu2",
             "projectName": "0317002_716ed0b4",
-            "vmArgs": "-Dfile.encoding=UTF-8",
+            "vmArgs": "-Dfile.encoding=UTF-8 -cp \"src;lib/mysql-connector-j-9.3.0.jar\"",
             "console": "internalConsole"
         }
     ]
