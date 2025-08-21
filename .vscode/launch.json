@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShopMenu2",
+            "request": "launch",
+            "mainClass": "ShopMenu2",
+            "projectName": "Shopmenu2_9f7b3dbb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -24,7 +31,7 @@
             "mainClass": "ShopMenu2",
             "projectName": "0317002_716ed0b4",
             "vmArgs": "-Dfile.encoding=UTF-8",
-            "console": "internalConsole",
-        },
+            "console": "internalConsole"
+        }
     ]
 }
